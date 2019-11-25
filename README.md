@@ -17,3 +17,4 @@ The complete directory
 
 # Tobe Review
 > - [Laravel Blog](https://laravel-news.com/canvas-v3)
+> - [Laravel Blog List](https://quickadminpanel.com/blog/blog-packages-for-laravel-nothing-to-choose-from/)
