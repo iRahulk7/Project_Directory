@@ -13,3 +13,7 @@ The complete directory
 > - [A Lightweight Admin Panel Components With Tailwindcss & Vue.](https://empathy.js.org/)
 > - [A REST Client Inside Your Laravel Projects.](https://laravel-news.com/laravel-compass-rest-client)
 > - [Laravel + FullCalendar: Create/Edit Recurring Events](https://quickadminpanel.com/blog/laravel-fullcalendar-createedit-recurring-events/)
+
+
+# Tobe Review
+> - [Laravel Blog](https://laravel-news.com/canvas-v3)
