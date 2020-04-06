@@ -20,4 +20,4 @@ The complete directory
 > - [Laravel Blog List](https://quickadminpanel.com/blog/blog-packages-for-laravel-nothing-to-choose-from/)
 
 # Build Laravel Desktop Application
-> - [Laravel Desktop Application] (https://laravelarticle.com/laravel-desktop-application)
+> - [Laravel Desktop Application](https://laravelarticle.com/laravel-desktop-application)
